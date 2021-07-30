@@ -1,5 +1,7 @@
 Logcat 配置主题
 
+####
+
 Assert: #AA66CC
 Debug: #33B5E5
 Error: #FF4444
